@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543156959651",
+    "project_id": "flutterhw-f41e8",
+    "storage_bucket": "flutterhw-f41e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543156959651:android:5bff972dd31119365c8216",
+        "android_client_info": {
+          "package_name": "com.codegemz.flutlab.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt-BnZhxv31OP10vdoyCM0GeM7NHOtFx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
